@@ -11,24 +11,24 @@ I'm passionate about technology and continuous learning. I enjoy exploring new t
 
 <br>
 
-<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
+<h1 align=center>Tech Stack👨🏻‍💻</h1>
 <!--tech stack icons-->
 <div align=center>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,angular,tailwind,bootstrap,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,angular,tailwind,bootstrap,nextjs,vite,vitest,figma&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,php,laravel,cs&theme=light" />
   </a>
-   <h3>AI Engineering</h3>
+   <h3>Data Bases</h3>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=light" />
   </a>
-    <h3>Tools</h3>
+    <h3>Tools & DevOps</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&theme=light" />
   </a>
   </div>
 <br>
