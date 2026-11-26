@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,I'm Karen Gerez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Karen Gerez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  
 ## About Me
@@ -20,7 +20,7 @@ My focus is on understanding how systems work under the hood—whether that mean
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,php,laravel,cs&theme=light" />
   </a>
-   <h3>Data Bases</h3>
+   <h3>Databases</h3>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=light" />
   </a>
