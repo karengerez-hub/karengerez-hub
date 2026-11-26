@@ -3,15 +3,13 @@
  
 ## About Me
 
-I'm a Full Stack Developer interested in designing and building software solutions that address real-world needs. I have hands-on experience developing and maintaining web applications, contributing to the implementation of new features, process optimization, and the improvement of existing systems.
+I'm a Computer Science Engineering student and Full Stack Developer from Buenos Aires. I enjoy taking an idea from the database design all the way to a functional web interface.
 
-I enjoy approaching challenges from different perspectives, understanding the underlying problems, and turning requirements into functional, efficient, and maintainable solutions. My experience spans different stages of software development, from building application features and working with databases to troubleshooting issues and improving existing functionality.
-
-I'm passionate about technology and continuous learning. I enjoy exploring new tools, strengthening my technical skills, and taking on projects that allow me to grow as a developer while creating software that delivers real value.
+My focus is on understanding how systems work under the hood—whether that means structuring an API, optimizing queries, or debugging frontend behavior. Alongside my university coursework, I spend my time building web projects to put theory into practice and improve my workflow.
 
 <br>
 
-<h1 align=center>Tech Stack👨🏻‍💻</h1>
+<h1 align=center>Tech Stack👩🏻‍💻</h1>
 <!--tech stack icons-->
 <div align=center>
    <h3>Frontend</h3>
